@@ -4,3 +4,4 @@ from selenium import webdriver
 driver = webdriver.Chrome()
 
 # Go to webpage
+driver.get("https://practicetestautomation.com/practice-test-login/")
